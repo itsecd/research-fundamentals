@@ -31,6 +31,12 @@
 <td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lab-1/">Материалы</a></td>
 </tr>
 
+<tr>
+<td>2</td>
+<td>Оформление научно-технического текста в традиционном текстовом процессоре и в LaTeX</td>
+<td><a href="https://github.com/itsecd/academic-fundamentals/blob/main/lab-2/">Материалы</a></td>
+</tr>
+
 </table>
 
 **Сроки сдачи лабораторных работ**
