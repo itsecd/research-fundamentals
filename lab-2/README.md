@@ -1,7 +1,7 @@
 # Курс "Основы научных исследований"
 # Лабораторная работа №2 "Оформление научно-технического текста в Word и LaTeX"
 
-- [Задание на лабораторную работу](https://github.com/itsecd/academic-fundamentals/blob/main/lab-2/lab-2-task.pdf)
+- [Задание на лабораторную работу](https://github.com/itsecd/research-fundamentals/blob/main/lab-2/lab-2-task.pdf)
 - [Видео-пояснение к заданию (2023 год)](https://youtu.be/yq67S7RBG7s)
 - [Шаблон Word Самарского университета и инструкция по его использованию](https://github.com/itsecd/general)
 - Книги, которые предлагается использовать в качестве шаблонов оформления в лабораторной работе 2 (ссылка приведена в discord)
