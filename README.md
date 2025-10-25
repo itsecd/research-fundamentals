@@ -7,7 +7,86 @@
 
 ## Лекции
 
+<table>
+<tr>
+<th>№</th>
+<th>Тема</th>
+<th>Презентация</th>
+<th>Видеозапись</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td>В чём смысл этого курса<br/>
+Виды занятий<br/>
+Преподаватели<br/>
+Структура курса</td>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture00-course-info.pdf">PDF</a></td>
+<td></td>
+</tr>
+
+<tr>
+<td>1</td>
+<td>Структура российской науки<br/>
+Вузовская наука<br/>
+Как искать себе научного руководителя<br/>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture01-academic-work-structure.pdf">PDF</a></td>
+<td></td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Содержание и этапы научного исследования<br/>
+Журналы и конференции<br/>
+Где искать литературу<br/>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture02-research-stages-and-literature.pdf">PDF</a></td>
+<td></td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Актуальность, новизна и вклад. <br/>
+Защита диссертации<br/>
+Финансирование исследований<br/></td>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture03-novelty-financing.pdf">PDF</a></td>
+<td></td>
+</tr>
+
+</table>
+
 ### Лекции по LaTeX
+
+<table>
+<tr>
+<th>№</th>
+<th>Тема</th>
+<th>Презентация</th>
+<th>Видеозапись</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td>Основы LaTeX<br/>
+Структура документа. Пакеты<br/>
+Списки и таблицы</td>
+<td>
+<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture-latex1.tex">Пример документа - TeX</a><br/>
+<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture-latex1.pdf">Пример документа - PDF</a>
+</td>
+<td><a href="https://youtu.be/A8JqEQ8TWOM">Видео</a>
+</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Презентации Beamer</td>
+<td>
+</td>
+<td><a href="https://youtu.be/ckOV0kzwBdo">Видео</a>
+</td>
+</tr>
+
+</table>
 
 ## Лабораторные работы
 
@@ -35,6 +114,12 @@
 <td>2</td>
 <td>Оформление научно-технического текста в традиционном текстовом процессоре и в LaTeX</td>
 <td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lab-2/">Материалы</a></td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Подготовка презентации и выступление с научным докладом</td>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lab-3/">Материалы</a></td>
 </tr>
 
 </table>
@@ -81,3 +166,5 @@
 - [Оформление учебных текстовых документов](https://github.com/itsecd/general)
 - [К.В. Воронцов - LaTeX  в примерах](http://www.ccas.ru/voron/download/voron05latex.pdf)
 - [Конвертация рукописных формул в LaTeX](https://detexify.kirelabs.org/classify.html)
+- [Презентация "LaTeX: More Than Just Academic Papers and Theses"](https://www.overleaf.com/articles/latex-more-than-just-academic-papers-and-theses/cyfvvyfrpmyn)
+- [Ещё одна презентация о LaTeX](https://indico.global/event/642/contributions/16014/attachments/5078/8133/Week%203%20-%20LaTeX%20-%20slides.pdf)
