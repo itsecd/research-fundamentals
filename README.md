@@ -73,7 +73,8 @@
 <a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture-latex1.tex">Пример документа - TeX</a><br/>
 <a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture-latex1.pdf">Пример документа - PDF</a>
 </td>
-<td><a href="https://youtu.be/A8JqEQ8TWOM">YouTube</a>
+<td><a href="https://youtu.be/A8JqEQ8TWOM">YouTube</a><br/>
+  <a href="https://dzen.ru/video/watch/68fca928065c8752bcaa9167">Дзен</a><br/>
 </td>
 </tr>
 
@@ -82,11 +83,12 @@
 <td>Презентации Beamer</td>
 <td>
 </td>
-<td><a href="https://youtu.be/ckOV0kzwBdo">YouTube</a><br/>
+<td>
+  <a href="https://youtu.be/ckOV0kzwBdo">YouTube</a><br/>
+  <a href="https://dzen.ru/video/watch/68fca9062cb6e922c5dd0c6a">Дзен</a><br/>
   <a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-latex/beamer.mp4">Файл видео</a>
 </td>
 </tr>
-
 </table>
 
 ## Лабораторные работы
