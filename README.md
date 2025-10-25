@@ -73,7 +73,7 @@
 <a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture-latex1.tex">Пример документа - TeX</a><br/>
 <a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture-latex1.pdf">Пример документа - PDF</a>
 </td>
-<td><a href="https://youtu.be/A8JqEQ8TWOM">Видео</a>
+<td><a href="https://youtu.be/A8JqEQ8TWOM">YouTube</a>
 </td>
 </tr>
 
@@ -82,7 +82,8 @@
 <td>Презентации Beamer</td>
 <td>
 </td>
-<td><a href="https://youtu.be/ckOV0kzwBdo">Видео</a>
+<td><a href="https://youtu.be/ckOV0kzwBdo">YouTube</a><br/>
+  <a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-latex/beamer.mp4">Файл видео</a>
 </td>
 </tr>
 
