@@ -52,6 +52,14 @@
 <td></td>
 </tr>
 
+<tr>
+<td>4</td>
+<td>Подготовка презентации.<br/>
+Выступление с научным докладом<br/>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture04-presentation.pdf">PDF</a></td>
+<td></td>
+</tr>
+
 </table>
 
 ### Лекции по LaTeX
@@ -145,12 +153,12 @@
 <tr>
 <td>2 (базовая часть)</td>
 <td>Занятие 3</td>
-<td>Занятие 4</td>
+<td>Занятие 5</td>
 </tr>
 
 <tr>
 <td>3 (базовая часть)</td>
-<td>Занятие 4</td>
+<td>Занятие 5</td>
 <td>Занятие 6</td>
 </tr>
 
