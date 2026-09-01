@@ -34,32 +34,6 @@
 <td></td>
 </tr>
 
-<tr>
-<td>2</td>
-<td>Содержание и этапы научного исследования<br/>
-Журналы и конференции<br/>
-Где искать литературу<br/>
-<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture02-research-stages-and-literature.pdf">PDF</a></td>
-<td></td>
-</tr>
-
-<tr>
-<td>3</td>
-<td>Актуальность, новизна и вклад. <br/>
-Защита диссертации<br/>
-Финансирование исследований<br/></td>
-<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture03-novelty-financing.pdf">PDF</a></td>
-<td></td>
-</tr>
-
-<tr>
-<td>4</td>
-<td>Подготовка презентации.<br/>
-Выступление с научным докладом<br/>
-<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture04-presentation.pdf">PDF</a></td>
-<td></td>
-</tr>
-
 </table>
 
 ### Лекции по LaTeX
@@ -103,8 +77,8 @@
 
 ### Ссылки на общие файлы
 
-- [Редактируемая таблица для выбора вариантов и напарников](https://docs.google.com/spreadsheets/d/1xnSgzzRVSq7L0ZuTqUCrg0REKVrJAPJimtxnfRSQ0hc/edit?usp=sharing)
-- [Таблица успеваемости](https://docs.google.com/spreadsheets/d/1Xal6_4mKKXfdGlveBMceKCea4WiIR0ZtHcPWerSljMk/edit?usp=sharing)
+- [Редактируемая таблица для выбора вариантов и напарников](https://docs.google.com/spreadsheets/d/18yDpLA4uUo26Vx0EykkyHGCT7dpId2BhQSk57Z_2-CE/edit?usp=sharing)
+- [Таблица успеваемости](https://docs.google.com/spreadsheets/d/1oE9KFg5lkaZ2NbUD5No72O-zJgkNHbFM4I4kwXGgaeY/edit?usp=sharing)
 
 ### Материалы для выполнения лабораторных работ
 
@@ -140,37 +114,40 @@
 <table>
 <tr>
 <th>Лаба</th>
+<th>Части лабы</th>
 <th>Soft deadline</th>
 <th>Hard deadline</th>
 </tr>
 
 <tr>
 <td>1</td>
+<td>1.1, 1.2, 1.3</td>
+<td>Занятие 1</td>
 <td>Занятие 2</td>
-<td>Занятие 3</td>
 </tr>
 
 <tr>
-<td>2 (базовая часть)</td>
+<td>2 (без LaTeX)</td>
+<td>2.1, 2.2</td>
 <td>Занятие 3</td>
-<td>Занятие 5</td>
+<td>Занятие 4</td>
 </tr>
 
 <tr>
-<td>3 (базовая часть)</td>
+<td>3 (без LaTeX)</td>
+<td>3.1</td>
 <td>Занятие 5</td>
 <td>Занятие 6</td>
 </tr>
 
 <tr>
 <td>2 и 3 (LaTeX)</td>
-<td>Занятия по записи</td>
-<td>Занятия по записи</td>
+<td>2.3, 3.2</td>
+<td>Отдельные занятия по записи</td>
+<td>Отдельные занятия по записи</td>
 </tr>
 
 </table>
-
-Занятие 7 является дополнительным днём для сдачи долгов
 
 ## Дополнительные материалы
 
