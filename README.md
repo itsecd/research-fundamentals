@@ -52,8 +52,8 @@
 Структура документа. Пакеты<br/>
 Списки и таблицы</td>
 <td>
-<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture-latex1.tex">Пример документа - TeX</a><br/>
-<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture-latex1.pdf">Пример документа - PDF</a>
+<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-latex/lecture-latex1.tex">Пример документа - TeX</a><br/>
+<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-latex/lecture-latex1.pdf">Пример документа - PDF</a>
 </td>
 <td><a href="https://youtu.be/A8JqEQ8TWOM">YouTube</a><br/>
   <a href="https://dzen.ru/video/watch/68fca928065c8752bcaa9167">Дзен</a><br/>
