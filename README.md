@@ -34,6 +34,32 @@
 <td></td>
 </tr>
 
+<tr>
+<td>2</td>
+<td>Содержание и этапы научного исследования<br/>
+Журналы и конференции<br/>
+Где искать литературу<br/>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture02-research-stages-and-literature.pdf">PDF</a></td>
+<td></td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Актуальность, новизна и вклад. <br/>
+Защита диссертации<br/>
+Финансирование исследований<br/></td>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture03-novelty-financing.pdf">PDF</a></td>
+<td></td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>Подготовка презентации.<br/>
+Выступление с научным докладом<br/>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture04-presentation.pdf">PDF</a></td>
+<td></td>
+</tr>
+
 </table>
 
 ### Лекции по LaTeX
